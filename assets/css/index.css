@@ -59,3 +59,17 @@ i{
     background-color: rgb(12, 180, 236);
     color: white;
 }
+.footer-perso{
+    background-color: rgb(12, 180, 236);
+    color: white;
+    padding: 20px;
+}
+.footer-perso ul{
+    list-style: none;
+}
+.div-icons{
+    margin-inline-start: auto;
+}
+.footer-perso ul li{
+    margin-right: 10px;
+}
