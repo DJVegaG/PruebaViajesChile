@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0;
     border: 0;
+    font-family: "Raleway", sans-serif;
 }
 body{
     background-color: black;
@@ -34,4 +35,27 @@ h2{
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
+    font-weight: 400;
+}
+i{
+    font-size: 30px;
+}
+.iconos{
+    background-color: rgb(12, 180, 236);
+    text-align: center;
+}
+.text-icon{
+    margin-right: 30px;
+    font-size: 17px;
+}
+.card-perso{
+    background-color: rgb(12, 180, 236);
+    color: white;
+}
+.contacto{
+    margin-bottom: 40px;
+}
+.btn-perso{
+    background-color: rgb(12, 180, 236);
+    color: white;
 }
