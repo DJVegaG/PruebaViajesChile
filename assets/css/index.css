@@ -73,3 +73,7 @@ i{
 .footer-perso ul li{
     margin-right: 10px;
 }
+.footer-perso ul li a{
+    color: inherit;
+    text-decoration: none;
+}
