@@ -4,32 +4,41 @@
     border: 0;
     font-family: "Raleway", sans-serif;
 }
+/* Color de fondo para todo el body */
 body{
     background-color: black;
 }
+/* Imagen para el nav-bar */
 nav img{
     width: 70px;
     height: 70px;
     padding: 10px;
 }
-.font-size{
+/* Tamaño del icono */
+.tamaño-letra{
     font-size: 30px;
 }
+/* Propiedades del nav-bar */
 .navbar-perso{
     background-color:transparent;
     width: 80%;
     margin: auto;
 }
+/* Propiedades de los links del nav-bar */
 .navbar-links{
     margin-inline-start: auto;
 }
+/* Centrado general del codigo */
 .centrado{
     width: 70%;
     margin: auto;
 }
+/* Propiedades del main */
+/* Color de letra general */
 main{
     color: white;
 }
+/* Propiedades de todos los h2 */
 h2{
     font-size: 30px;
     margin-top: 50px;
@@ -37,39 +46,49 @@ h2{
     text-align: center;
     font-weight: 400;
 }
+/* Propiedades de los iconos en general */
 i{
     font-size: 30px;
 }
+/* Propiedades de la seccion donde estan los iconos de quienes somos */
 .iconos{
     background-color: rgb(12, 180, 236);
     text-align: center;
 }
+/* Propiedades de los iconos de quienes somos */
 .text-icon{
     margin-right: 30px;
     font-size: 17px;
 }
+/* Propiedades de la card general */
 .card-perso{
     background-color: rgb(12, 180, 236);
     color: white;
 }
+/* Propiedades de la seccion de contacto */
 .contacto{
     margin-bottom: 40px;
 }
+/* Propiedades del boton para el formulario */
 .btn-perso{
     background-color: rgb(12, 180, 236);
     color: white;
 }
+/* Propiedades del footer */
 .footer-perso{
     background-color: rgb(12, 180, 236);
     color: white;
     padding: 20px;
 }
+/* Propiedades de la lista del footer */
 .footer-perso ul{
     list-style: none;
 }
+/* Propiedades de los iconos del footer */
 .div-icons{
     margin-inline-start: auto;
 }
+/* Propiedades de los links del footer */
 .footer-perso ul li{
     margin-right: 10px;
 }
